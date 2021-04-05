@@ -1,4 +1,3 @@
-navigator-updater==0.2.1
 python-dateutil==2.8.1
 fbprophet @ file:///D:/bld/fbprophet_1599365958928/work
 yfinance==0.1.55
