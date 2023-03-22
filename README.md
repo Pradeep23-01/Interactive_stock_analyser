@@ -1,6 +1,6 @@
 # Interactive_stock_analyser
 
-Interactive_stock_analyser is a web application designed to help users view their existing stocks and get future forecasts using machine learning algorithms. The application is accessible via the following link: https://stock-pred-analyzer.herokuapp.com/
+Interactive_stock_analyser is a web application designed to help users view their existing stocks and get future forecasts using machine learning algorithms. The application is accessible via the following link: https://stock-pred-analyzer.herokuapp.com/ (Currently not active, but the code is usable)
 
 ## Context:
 The application is built using Streamlit, which is a Python library used for building web applications. Streamlit allows developers to easily build interactive and customizable web applications using Python code.
@@ -9,7 +9,7 @@ The Interactive_stock_analyser application is deployed using Streamlit, which ma
 
 The application uses machine learning algorithms such as Linear Regression and ARIMA to forecast the future values of stocks. These algorithms analyze the historical data of stocks and use this data to make predictions about future trends. The predictions are then visualized using various graphs and charts to help users understand the trends and make informed decisions.
 
-Libraries:
+## Libraries:
 
 - Yahoo Finance is a popular platform used to obtain financial data and stock prices of publicly traded companies. It provides historical stock prices, financial statements, news, and other financial information on a wide range of assets, including stocks, bonds, and exchange-traded funds (ETFs). Yahoo Finance also allows users to download historical stock price data in a CSV file format, which can be used for further analysis.
 
